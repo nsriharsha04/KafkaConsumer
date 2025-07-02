@@ -1,0 +1,11 @@
+.class
+/target
+/.idea
+/.vscode
+/.gradle
+/.mvn
+/.project
+/.classpath
+/.settings
+/.DS_Store
+/.git
